@@ -1,6 +1,48 @@
-# Awesome Ethereum Cutting Edge
+| title   | Awesome Ethereum                                                                                                             |
+|---------|------------------------------------------------------------------------------------------------------------------------------|
+| summary | Ethereum Awesome list focused on Finance, Cutting Edge and Novel Works                                                       |
+| version | 2022.04.25                                                                                                                   |
+| license | CC-1.0                                                                                                                       |
+| tags    | ["ethereum", "zero knowledge", "cryptography", "financial engineering", "solidity", "formal verification", "high assurance"] |
+
+
+# Awesome Ethereum Finance
+
+- [Awesome Ethereum Cutting Edge](#awesome-ethereum-cutting-edge)
+  * [Ethereum](#ethereum)
+  * [Recommended](#recommended)
+  * [Incentives in Computer Science](#incentives-in-computer-science)
+  * [Financial Computing](#financial-computing)
+    + [Encryption Content (zk, obvram, circuts, smpc, etc)](#encryption-content--zk--obvram--circuts--smpc--etc-)
+      - [MPC videos](#mpc-videos)
+  * [MEV](#mev)
+    + [**MEV Ship Vault**](#--mev-ship-vault--)
+    + [Miscellaneous Gems](#miscellaneous-gems)
+    + [Garbled circuits](#garbled-circuits)
+    + [LEGO](#lego)
+  * [Full Table for Sufficient Values of Whale Transaction](#full-table-for-sufficient-values-of-whale-transaction)
+
 
 ## Ethereum 
+
+## Recommended
+
+[Tim Roughgarden's lectures](https://www.youtube.com/watch?v=KNJGPI0fuFA&list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA)
+
+[MIT Open Course: Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/video_galleries/video-lectures/)
+
+[Stanford Center for Blockchain Research](https://cbr.stanford.edu/index.html)
+
+[Stanford Blockchain Club](http://blockchain.stanford.edu/) 
+  and its [online seminar and activities](https://www.youtube.com/c/StanfordBlockchainClub/videos)
+
+## Incentives in Computer Science
+[Tim Roughgarden's Youtube short course on incentives in CS](https://www.youtube.com/watch?v=Y6AvtjD7V78&list=PLEGCF-WLh2RJdrKZ431SidRX_T4VmAKx8)
+
+## Financial Computing
+[UCL Financial Computing and Analytics Group](https://www.ucl.ac.uk/computer-science/research/research-groups/financial-computing-and-analytics)
+
+[Fedor Iskhakov's Lecture in ANU](https://www.youtube.com/playlist?list=PLWs2dSJolpWKBCBPVymYBm0BM8VPksmLv)
 
 ### Encryption Content (zk, obvram, circuts, smpc, etc)
 
